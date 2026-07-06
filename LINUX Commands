@@ -1,1 +1,69 @@
+🖥️ Linux Commands - OS Lab
+1. 📂 Directory Related Commands
 
+Description:
+These commands are used to create, navigate, display, and remove directories in Linux.
+
+Commands Used:
+
+pwd          # Display current working directory
+cd           # Change directory
+mkdir        # Create a new directory
+rmdir        # Remove an empty directory
+
+Screenshot:
+directory_commands.png
+
+2. 📄 File Related Commands
+
+Description:
+These commands are used to create, display, copy, rename, move, delete, and sort files.
+
+Commands Used:
+
+cat          # Create and display file contents
+cp           # Copy a file
+mv           # Move or rename a file
+rm           # Remove a file
+sort         # Display file contents in sorted order
+
+Sample File Used:
+
+sample1
+
+Contents of sample1
+
+hello world
+os lab ex-2
+
+Screenshot:
+file_commands.png
+
+3. 👤 User Information Commands
+
+Description:
+These commands display information about the logged-in user, terminal, and current date & time.
+
+Commands Used:
+
+date         # Display current date and time
+who          # Show logged-in users
+whoami       # Display current username
+tty          # Display terminal name
+
+Screenshot:
+user_commands.png
+
+4. 📋 Sample File (sample1)
+
+Description:
+A sample text file created using the cat command to demonstrate basic file operations.
+
+Filename
+
+sample1
+
+Contents
+
+hello world
+os lab ex-2
